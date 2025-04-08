@@ -32,6 +32,16 @@ A simple React application that provides an auto-complete search feature for rec
 git clone https://github.com/your-username/recipe-autocomplete.git
 cd recipe-autocomplete
 
+```
 
+## 2. Installation
 
+```bash
+npm install
+```
+
+## 3. Start the development server
+
+```bash
+npm start
 ```
